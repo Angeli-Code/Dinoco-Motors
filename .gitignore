@@ -1,0 +1,20 @@
+# Compiled Java classes
+src/bin/*.class
+tests/Database_Testing/*.class
+tests/Parser_Testing/*.class
+
+# Data files
+src/Data/*.tsv
+
+# Vim files
+src/tags
+tags
+.*.sw?
+*~
+
+# Compiled inner classes
+src/bin/*$*.class
+
+# Database config (for future use)
+# db-config.env
+# *.env
